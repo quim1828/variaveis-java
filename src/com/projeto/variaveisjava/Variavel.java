@@ -14,16 +14,16 @@ public class Variavel {
 	
 	public static void main(String[] args) {
 		
-		char minhaVariavelChar = 'c';
-		byte minhaVariavelByte = 2;
+		char minhaVariavelChar = 'a';
+		byte minhaVariavelByte = 1;
 		int minhaVariavelInt = 10000;
 		long minhaVariavelLong = 1000000000;
-		float minhaVariavelFloat = 1.7f;
-		double minhaVariavelDouble = 7.25;
+		float minhaVariavelFloat = 2.8f;
+		double minhaVariavelDouble = 17.259;
 		
-		boolean minhaVariavelBoolean = true;
+		boolean minhaVariavelBoolean = false;
 		
-		String minhaVariavelString = "Café";
+		String minhaVariavelString = "Limão";
 		
 		System.out.println(minhaVariavelChar);
 		System.out.println(minhaVariavelByte);
