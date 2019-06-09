@@ -21,7 +21,7 @@ public class Variavel {
 		float minhaVariavelFloat = 2.8f;
 		double minhaVariavelDouble = 17.259;
 		
-		boolean minhaVariavelBoolean = false;
+		boolean minhaVariavelBoolean = true;
 		
 		String minhaVariavelString = "Limão";
 		
